@@ -1,5 +1,8 @@
 # Designé - Room Decorator App
 
+ Demo video 
+  https://github.com/user-attachments/assets/d3142c06-abb9-4eec-a57d-18ea9bb3c1a9
+  
 A React Native mobile application that allows users to design and decorate their rooms by placing furniture and decor items on room photos. The app features both free and VIP tiers with premium furniture collections.
 
 ## 🎨 Features
@@ -254,4 +257,6 @@ Radni Amonkar
 - Pixabay for free image API
 - Expo for the development platform
 - Firebase for authentication and database services
+
+
 
