@@ -2,9 +2,6 @@
 
 Demo video 
 https://github.com/user-attachments/assets/62b09ea3-92ca-4f46-b851-10a43e2b2b8a
-
-use this image if uloading from gallery
-![Image](https://github.com/user-attachments/assets/74b22a46-8235-4069-a4fe-1789a04be87d)
   
 A React Native mobile application that allows users to design and decorate their rooms by placing furniture and decor items on room photos. The app features both free and VIP tiers with premium furniture collections.
 
@@ -29,6 +26,11 @@ A React Native mobile application that allows users to design and decorate their
 
 ### Quick guide 
 **after choosing the photo click on crop to proceed to next page**
+
+use this image if uloading from gallery
+---
+![Image](https://github.com/user-attachments/assets/74b22a46-8235-4069-a4fe-1789a04be87d)
+
 
 ## 🚀 Getting Started
 
