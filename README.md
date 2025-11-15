@@ -21,6 +21,9 @@ A React Native mobile application that allows users to design and decorate their
 - **Feature Flags**: Toggle app features on/off
 - **Audit Logs**: Track admin actions
 
+### Quick guide 
+**after choosing the photo click on crop to proceed to next page**
+
 ## 🚀 Getting Started
 
 ### Prerequisites
