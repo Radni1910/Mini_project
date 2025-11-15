@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077002044139",
+    "firebase_url": "https://miniproject-4bc9c-default-rtdb.firebaseio.com",
+    "project_id": "miniproject-4bc9c",
+    "storage_bucket": "miniproject-4bc9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077002044139:android:b2e40d0f5e01d854bff4ae",
+        "android_client_info": {
+          "package_name": "com.radniamonkar.miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077002044139-epvfhcf5nqs937ku51qm1fg1m1e2v14o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPM8lu-zINT9qj14ED7ZxdpXX-Dsy_dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077002044139-cvmk151kms4t8oak7c85832eche7c71d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
